@@ -28,18 +28,9 @@
 
 ## Conclusions
 - Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
-  1. DTI
-  2. Grades
-  3. Verification Status
-  4. Annual income
-  5. Pub_rec_bankruptcies
+
 - Other considerations for 'defaults' :
-  1. Burrowers from large urban cities like california, new york, texas, florida etc.
-  2. Burrowers having annual income in the range 50000-100000.
-  3. Burrowers having Public Recorded Bankruptcy.
-  4. Burrowers with least grades like E,F,G which indicates high risk.
-  5. Burrowers with very high Debt to Income value.
-  6. Burrowers with working experience 10+ years.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
