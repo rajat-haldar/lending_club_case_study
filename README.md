@@ -1,5 +1,5 @@
 # Project Name
-> Lending Club Case Study for upGrad and IIT-B assigment
+> Lending Club Case Study with Loan related data
 
 
 ## Table of Contents
@@ -11,10 +11,18 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- The assigment is a EDA methodolgy that uses the lending club data set to analyse whether a loan will be defaulted or not.
-- This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
+
+### Project Information
+- The assigment is based on EDA methodolgy that uses the lending club data set to analyse whether a loan will be defaulted or not.
+
+### Project Background
+- This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to risky applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+
+### Project Statement
 - The Lending company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
-- One CSV file 'loan,csv' conataing loan data excluding rejected loan application is used for the case study.
+
+### Data Set
+- One CSV file 'loan.csv' conataing loan data excluding rejected loan application is used for the case study.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -45,10 +53,8 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upGrad and IIIT-B
+- This project was based on [this tutorial](https://www.lendingclub.com/).
 
 
 ## Contact
