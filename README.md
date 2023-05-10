@@ -29,20 +29,20 @@
 ## Conclusions
 - Driving factors (or driver variables) which are strong indicators of default:
 
-1.DTI 
-2.Grades
-3.Interest Rate
-4.Annual income
-5.public record bankruptcies 
-6.Employment Length 
-7.Loan Term
+1. DTI 
+2. Grades
+3. Interest Rate
+4. Annual income
+5. public record bankruptcies 
+6. Employment Length 
+7. Loan Term
 
 - Other observation on the loan dataset:
 
-1.Borrowers with more annual income, having less public record of Bankruptcy.
-2.Borrowers having more Public Recorded Bankruptcy are more prone for defaulting.
-3.Borrowers with lower grades like E,F,G are likely to default.
-4.Very high Debt to Income value ratio are more likely to default.
+1. Borrowers with more annual income, having less public record of Bankruptcy.
+2. Borrowers having more Public Recorded Bankruptcy are more prone for defaulting.
+3. Borrowers with lower grades like E,F,G are likely to default.
+4. Very high Debt to Income value ratio are more likely to default.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
