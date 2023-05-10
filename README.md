@@ -27,9 +27,20 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
+- Driving factors (or driver variables) which are strong indicators of default:
+DTI 
+Grades
+Interest Rate
+Annual income
+public record bankruptcies 
+Employment Length 
+Loan Term
 
-- Other considerations for 'defaults' :
+- Other observation on the loan dataset:
+Borrowers with more annual income, having less public record of Bankruptcy.
+Borrowers having more Public Recorded Bankruptcy are more prone for defaulting.
+Borrowers with lower grades like E,F,G are likely to default.
+Very high Debt to Income value ratio are more likely to default.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
